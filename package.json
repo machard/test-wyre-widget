@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@ledgerhq/ledger-live-client": "git+https://machard:bd485738905fa8eab8c8c56cdac46750453201b8@github.com/LedgerHQ/ledger-live-client.git",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
